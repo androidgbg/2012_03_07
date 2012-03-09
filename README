@@ -3,24 +3,11 @@ Kod och presentationer för marsmötet den 7:e mars -12.
 http://www.meetup.com/Android-Goteborg/events/50523212/
 
 Lägg till kod eller presentationer i en egen branch och pusha
-upp den hit.
+upp den hit. Länkar till redan existerande repositoryn kan med
+fördel göras i denna README.
 
-För oerfarna gitanvändare:
-1) Klona detta repo:
-   git clone git@github.com:androidgbg/2012_03_07.git
-   cd 2012_03_07
+Är du osäker på hur man skapar en ny branch osv. Läs mer i
+instruktioner.txt
 
-2) Skapa en ny branch:
-   git checkout -b nytt_branchnamn
-
-3) lägg in kod och annat
-
-4) Lägg till alla filer och kataloger till indexet:
-   git add .
-   Alternativt git add en_katalog/en_specifik_fil
-
-5) Committ:a till ditt eget repo
-   git commit -m "Ett fint commitmeddelande"
-
-6) Push:a branchen till GitHub
-   git push -u origin nytt_branchnamn
+Software Passion-appen
+https://github.com/tobekb/Software-Passion
