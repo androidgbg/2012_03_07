@@ -8,6 +8,7 @@ upp den hit.
 För oerfarna gitanvändare:
 1) Klona detta repo:
    git clone git@github.com:androidgbg/2012_03_07.git
+   cd 2012_03_07
 
 2) Skapa en ny branch:
    git checkout -b nytt_branchnamn
